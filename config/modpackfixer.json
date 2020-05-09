@@ -1,0 +1,17 @@
+{
+  "comment_1": "You are free to change the patch settings or update it to newer / older versions or mappings.",
+  "comment_2": "You can get the mapping files from %userprofile%\\.gradle\\caches\\minecraft\\de\\oceanlabs\\mcp\\mcp_snapshot\\*mappingname*\\*.csv if you have the default mdk installed from files.minecraftforge.net",
+  "comment_3": "Mappingfiles could be downloaded here, too: http://export.mcpbot.bspk.rs/",
+  "comment_4": "But be carefull, i don\u0027t support changing these mappings, as i build this mot with this settings:",
+  "placeholder_1": "",
+  "testedversion_comment": "Do not change this",
+  "testedversion": "forgeSrc-1.10.2-12.18.3.2422",
+  "testedmappings_comment": "Do not change this",
+  "testedmappings": "snapshot_20161111",
+  "placeholder_2": "",
+  "modelbakery_comment": "Default mappings on compiled version: func_177596_a,getVariantNames,0, ; field_177613_u,variantNames,0,",
+  "modelbakery": {
+    "getVariantNamesMapping": "func_177596_a",
+    "variantNamesMapping": "field_177613_u"
+  }
+}

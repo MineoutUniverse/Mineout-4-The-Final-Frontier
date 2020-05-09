@@ -1,0 +1,24 @@
+** Add blocks or items registry names like minecraft:gold_ore then add /weight, such as minecraft:gold_ore/100 ** 
+**Custom block overwrites material **
+mw:10mmPistol/500
+mw:MakarovPM/500
+mw:Python/500
+mw:MakarovPM/500
+mw:M1911/500
+mw:Remington870/800
+mw:MosinNagantM91-30/1200
+mw:M21/1200
+mw:HecateII/2000
+mw:VSSVintorez/1500
+mw:PPSh41/1000
+mw:M1A1Thompson/1000
+mw:M1Carbine/1000
+mw:MP40/1000
+mw:AK47/1000
+mw:MP18/1000
+mw:AKS74U/1000
+mw:Type100/1000
+mw:M1Garand/1000
+mw:M67Frag/50
+mw:ImpactGrenade/50
+mw:M18White/50

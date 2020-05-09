@@ -1,0 +1,36 @@
+**Change material weight here. If you remove an entry it defaults to the default block weight.**
+**Material overwrites defaults, custom block overwrites materials.**
+Material.AIR/0
+Material.ANVIL/100
+Material.CACTUS/5
+Material.CAKE/5
+Material.CARPET/2
+Material.CIRCUITS/2
+Material.CLAY/15
+Material.CLOTH/5
+Material.CORAL/5
+Material.CRAFTED_SNOW/2
+Material.DRAGON_EGG/15
+Material.FIRE/5
+Material.GLASS/5
+Material.GOURD/5
+Material.GRASS/10
+Material.GROUND/10
+Material.ICE/15
+Material.IRON/50
+Material.LAVA/10
+Material.LEAVES/2
+Material.PACKED_ICE/50
+Material.PISTON/15
+Material.PLANTS/2
+Material.PORTAL/5
+Material.REDSTONE_LIGHT/10
+Material.ROCK/25
+Material.SAND/15
+Material.SNOW/10
+Material.SPONGE/5
+Material.TNT/10
+Material.VINE/2
+Material.WATER/15
+Material.WEB/5
+Material.WOOD/25
